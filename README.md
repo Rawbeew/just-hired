@@ -52,7 +52,7 @@ ORDER BY n DESC LIMIT 10;
 
 ## Live
 - Netlify: https://just-hired.netlify.app
-- GitHub Pages: https://rawbeew.github.io/just-hired/
+- GitHub Pages: https://promptcracka.github.io/just-hired/
 
 ## Deployment
 
