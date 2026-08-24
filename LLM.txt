@@ -13,4 +13,4 @@ Fresh-only direct-employer job board for Toronto PSW roles.
 Cloudflare Worker (cron 2h) → Job Bank + UHN API → Filter/Score → Static Site → Netlify/GH Pages
 
 ## Repository
-https://github.com/promptcracka/just-hired
+https://github.com/Rawbeew/just-hired
